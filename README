@@ -1,0 +1,10 @@
+APIを通じて、指定したキーワードを含むツイッターの画像を表示するプログラム
+動作はかなり遅い
+
+参考URL
+AOuthの認証に使用したライブラリ	：https://github.com/abraham/twitteroauth
+大まかなプログラムの流れ		：http://qiita.com/tsunet111/items/9309801cd3e3bcf6e32a
+							：http://blog.fkoji.com/2010/05061917.html
+使用したAPIの仕様				：https://dev.twitter.com/rest/reference/get/search/tweets
+
+以上を参考にさせていただきました。
