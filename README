@@ -3,7 +3,7 @@ APIを通じて、指定したキーワードを含むツイッターの画像�
 動作はかなり遅い
 
 ・使用方法
-<a href="https://github.com/abraham/twitteroauth">AOuth認証ライブラリ</a>をクローン
+AOuth認証ライブラリをクローン(https://github.com/abraham/twitteroauth )
 Twitterのアプリを登録する（https://apps.twitter.com/）。
 登録したら、Consumer Key、Consumer Secret、Access Token、Access Token Secretを確認し、プログラムにあるそれぞれの変数に格納する（HOGEHOGEHOGEの部分）。
 PHPが動作するウェブサーバにおいて、ページにアクセス。
@@ -11,8 +11,8 @@ PHPが動作するウェブサーバにおいて、ページにアクセス。
 
 ・参考URL
 AOuthの認証に使用したライブラリ	：https://github.com/abraham/twitteroauth
-大まかなプログラムの流れ		：http://qiita.com/tsunet111/items/9309801cd3e3bcf6e32a
-							：http://blog.fkoji.com/2010/05061917.html
-使用したAPIの仕様				：https://dev.twitter.com/rest/reference/get/search/tweets
+大まかなプログラムの流れ	：http://qiita.com/tsunet111/items/9309801cd3e3bcf6e32a
+				：http://blog.fkoji.com/2010/05061917.html
+使用したAPIの仕様		：https://dev.twitter.com/rest/reference/get/search/tweets
 
 以上を参考にさせていただきました。
