@@ -3,6 +3,7 @@ APIを通じて、指定したキーワードを含むツイッターの画像�
 動作はかなり遅い
 
 ・使用方法
+<a href="https://github.com/abraham/twitteroauth">AOuth認証ライブラリ</a>をクローン
 Twitterのアプリを登録する（https://apps.twitter.com/）。
 登録したら、Consumer Key、Consumer Secret、Access Token、Access Token Secretを確認し、プログラムにあるそれぞれの変数に格納する（HOGEHOGEHOGEの部分）。
 PHPが動作するウェブサーバにおいて、ページにアクセス。
